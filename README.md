@@ -1,8 +1,9 @@
 ## SETTING UP UBUNTU 20.04-LTS USING VAGRANT
 
-**Step 1**  
-Install a virtualization software. Here I want to install VirtualBox.  
-Download virtualbox from: [virtualbox.org](https://www.virtualbox.org/wiki/Downloads)
+**Step 1**  : Install a virtualization software.  
+Here I want to use VirtualBox, of course you can use any other virtualization software to like.  
+To download virtualbox go to: [virtualbox website](https://www.virtualbox.org/wiki/Downloads)
+![](./images/1.png)
 
 **Step 2**  
 Create a new virtual computer on VirtualBox.  
